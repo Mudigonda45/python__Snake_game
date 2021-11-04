@@ -35,7 +35,7 @@ x1 = (t.window_width() / 2) - 380
 y1 = (t.window_height()/ 2) - 50
 gtext1.penup()
 gtext1.setpos(x1, y1)
-gtext1.write('Designed by vinay bhushan',align='center',font=('Arial',8,'bold'))
+gtext1.write('Designed by mohan sai',align='center',font=('Arial',8,'bold'))
 gtext1.hideturtle()
 
 score.speed(0)
